@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haxstarcoder
+- 👋 Hi, I’m @Hax AKA Pancakes
 - 👀 I’m interested in python and discord.py
 - 🌱 I’m currently learning SQLite and C#
 - 💞️ I’m looking to collaborate on nothing at the moment
