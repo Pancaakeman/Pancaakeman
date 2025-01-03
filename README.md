@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Hax AKA Pancakes
-- 👀 I’m interested in python and discord.py
-- 🌱 I’m currently learning SQLite and C#
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me Dm @pancaakeman on discord
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love Pancakes 🔥 and I am 15
+Sure thing! Let's add some more flair and personality to your bio while making it friendly and approachable:
 
-<!---
-Haxstarcoder/Haxstarcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+👋 Hi, I’m @Hax, but you can call me Pancakes!
+👀 I’m passionate about Python and love tinkering with discord.py to create fun and engaging bots.
+🌱 Currently on a journey to master SQLite and C#, always eager to learn and grow.
+💬 Open to chat, share ideas, and make new friends in the coding community.
+📫 Reach out to me on Discord at @pancaakeman. Always happy to connect!
+😄 Pronouns: he/him
+⚡ Fun fact: I’m 15 and absolutely love pancakes! 🥞🔥
