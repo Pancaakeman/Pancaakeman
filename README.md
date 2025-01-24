@@ -1,8 +1,8 @@
-Current Proficiencies:
+**Current Proficiencies:**
   :> Python
   :> Discord.py (Discord API Wrapper)
   :> SQLite
-Learning:
+**Learning:**
   :> Python FLASK (Web-application Micro Framework)
   :> PyTorch (Package)
   :> C# 
