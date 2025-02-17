@@ -5,7 +5,6 @@
   
 **Learning:**
   :> Python FLASK (Web-application Micro Framework)
-  :> PyTorch (Package)
   :> C# 
   
 
