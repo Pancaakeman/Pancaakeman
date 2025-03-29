@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Accountar](https://github.com/Pancaakeman/Accountar-discordbot)
 
-- 🌱 I’m currently learning **GDScript, C# and GOLang**
+- 🌱 I’m currently learning **GDScript, C# and Rust**
 
 - 💬 Ask me about **Discord.py, Game Development**
 
