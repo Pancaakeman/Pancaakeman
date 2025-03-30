@@ -18,4 +18,4 @@ I am currently working on Accountar<br>I am learning GDscript, C# and Rust<br>I 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pancaakeman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly creatd with GPRM ( https://gprm.itsvg.in ) -->
