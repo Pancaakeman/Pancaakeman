@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Gopher by Day, Rustacean by Heart and Godotter by night ✨<br>🤝 I’m looking to collaborate on Anything Go or Rust 🤝<br>I do love my Cyberwaves secure<br><br><br>I use Fedora BTW!!<br>Now let me *nibble* away at my pancakes, <br>catch you in a *bit*, <br>Okay, these Puns need to *byte* the dust
+✨ Gopher by Day, Rustacean by Heart and Godotter by night ✨<br>🤝 I’m looking to collaborate on Anything Go or Rust 🤝<br>I do love my Cyberwaves secure<br><br><br>I use Fedora BTW!!<br>I love configs and Cybersec and Maybe I'll just continue for the *hex* of it, <br><br>Now let me *nibble* away at my pancakes, <br>catch you in a *bit*, <br>Okay, these Puns need to *byte* the dust
 
 
 ## 🌐 Socials:
@@ -11,5 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Pancaakeman&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Pancaakeman&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pancaakeman&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
