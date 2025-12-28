@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Gopher by Day,✨Goober by Heart✨ and ✨ Securing forever ✨<br>🤝 I’m looking to collaborate on Anything🤝<br>I do love my Cyberwaves secure (especially for @oreonproject)<br><br><br>I use EndeavourOS (+Windows) BTW!!<br>I love configs and Cybersec and Maybe I'll just continue for the hex of it,<br>Now let me nibble away at my pancakes,<br>catch you in a bit,<br>Okay, these Puns need to byte the dust
+✨ Gopher by Day,✨Goofball by Heart✨ and ✨ Securing forever ✨<br>🤝 I’m looking to collaborate on Anything🤝<br>I do love my Cyberwaves secure <br><br><br>I use EndeavourOS (+Windows) BTW!!<br>I love configs and Cybersec and Maybe I'll just continue for the hex of it,<br>Now let me nibble away at my pancakes,<br>catch you in a bit,<br>Okay, these Puns need to byte the dust
 
 
 # 💻 Tech Stack:
