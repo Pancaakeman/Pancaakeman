@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Gopher by Day,✨ Gopherling by Heart✨ and ✨ Securing forever ✨<br> 💫 Gaining proficiency in Golang 💫<br> 🤝 I’m looking to collaborate on Anything Systems, Networks, Security or Engineering 🤝<br> 🛜 Currently working on LuminOS - an ethical, secure and fully local approach to AI on your system,l<br>I love my Cyberwaves secure 🔐<br><br><br>I use EndeavourOS (+Windows) BTW!!<br>I love configs, Cybersec and dabble in Networking <br>Now let me nibble away at my pancakes,<br>catch you in a bit,<br>Okay, these Puns need to byte the dust
+✨ Gopher by Day,✨ Gopherling by Heart✨ and ✨ Securing forever ✨<br> 💫 Gaining proficiency in Golang 💫<br> 🤝 I’m looking to collaborate on Anything Systems, Networks, Security or Engineering 🤝<br> 🛜 Currently working on BasaltOS, My CCNA and plenty o' other things, Check in occasionally!,l<br>I love my Cyberwaves secure 🔐<br><br><br>I use EndeavourOS (+Windows) BTW!!<br>I love configs, Cybersec and dabble in Networking <br>Now let me nibble away at my pancakes,<br>catch you in a bit,<br>Okay, these Puns need to byte the dust
 
 
 # 💻 Tech Stack:
